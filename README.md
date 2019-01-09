@@ -1,2 +1,4 @@
 # js-scroll
-unlimited js scroll. Just insert it in console and start
+Unlimited js scroll. Just insert it in browser console and start
+
+Latency is 2000 miliseconds by default
